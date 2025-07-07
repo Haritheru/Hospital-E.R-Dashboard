@@ -79,7 +79,16 @@
 >Sample Views:
 
  Page 1 -Monthly View :- [Year & Month].
+ 
+ ![Screenshot 2025-07-04 180144](https://github.com/user-attachments/assets/e670a71a-b3ea-499c-9446-426554c86696)
+
 
  Page 2 -Consolidated View :- In Between the Perticular [Date to Date].
 
+ ![Screenshot 2025-07-04 180522](https://github.com/user-attachments/assets/dc6205a4-4a2a-4b08-92d9-ee7492e6e1ef)
+
+
  Page 3 -Patient Details :- Table View.
+
+ ![Screenshot 2025-07-04 180604](https://github.com/user-attachments/assets/c401d8dc-590b-4c96-be74-f4fbdc8ad3ff)
+
